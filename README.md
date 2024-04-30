@@ -30,11 +30,14 @@ El elemento puede ser arrastrado simplemente desde la paleta de elementos de net
 
 </p>
 El metodo ValidarMayuscula nos ayudara a verificar que nuestra contrasena ingresada contenga al menos una letra mayuscul.
+
 Metodos
 
 Nombre|Tipo de dato que retorna|Tipo de dato que recibe|Descripcion|
 ------------- | -------------
 validarMayuscula|Boolean|String|va a realizar las búsquedas especificas del patron dento de la cadena de texto.|
+
+
 El metodo ValidarNumero nos ayudara a buscar un numero dentro de la contrasena qaue fue ingresada por el usuario.
 
 
