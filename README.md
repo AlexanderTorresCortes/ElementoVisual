@@ -25,3 +25,8 @@ El elemento puede ser arrastrado simplemente desde la paleta de elementos de net
 
 
 
+#### VIDEO SOBRE EL FUNCIONAMIENTO DEL ELEMENTO VISUAL
+
+https://youtu.be/iAe5nDsxpXg?si=fD0FBcrGJTPvzn3A
+
+
