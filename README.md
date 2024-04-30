@@ -33,16 +33,16 @@ El metodo ValidarMayuscula nos ayudara a verificar que nuestra contrasena ingres
 
 Metodos
 
-Nombre|Tipo de dato que retorna|Tipo de dato que recibe|Descripcion|
-------------- | -------------
-validarMayuscula|Boolean|String|va a realizar las búsquedas especificas del patron dento de la cadena de texto.|
+| Nombre | Tipo de dato que retorna | Tipo de dato que recibe | Descripcion |
+|------- | -------------------------|-------------------------|-------------|
+| validarMayuscula | Boolean | String | va a realizar las búsquedas especificas del patron dento de la cadena de texto.|
 
 
 El metodo ValidarNumero nos ayudara a buscar un numero dentro de la contrasena qaue fue ingresada por el usuario.
 
 
-|Nombre|Tipo de dato que retorna|Tipo de dato que recibe|Descripcion|
-| ------------- | ------------- |
+| Nombre | Tipo de dato que retorna | Tipo de dato que recibe | Descripcion |
+| ------ | ------------------------ |-------------------------|-------------|
 | validarNumero|Boolean|String,int|va a buscar el patron definido \\d en la cadena de texto .|
 <p>
 
