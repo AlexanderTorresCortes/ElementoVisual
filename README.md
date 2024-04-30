@@ -24,6 +24,25 @@ El elemento puede ser arrastrado simplemente desde la paleta de elementos de net
 - implementación sencilla gracias a que es un elemento de la paleta
 
 
+                    
+#### API
+<p>
+
+</p>
+El metodo ValidarMayuscula nos ayudara a verificar que nuestra contrasena ingresada contenga al menos una letra mayuscul.
+Metodos
+
+Nombre|Tipo de dato que retorna|Tipo de dato que recibe|Descripcion|
+------------- | -------------
+validarMayuscula|Boolean|String|va a realizar las búsquedas especificas del patron dento de la cadena de texto.|
+El metodo ValidarNumero nos ayudara a buscar un numero dentro de la contrasena qaue fue ingresada por el usuario.
+
+
+|Nombre|Tipo de dato que retorna|Tipo de dato que recibe|Descripcion|
+| ------------- | ------------- |
+| validarNumero|Boolean|String,int|va a buscar el patron definido \\d en la cadena de texto .|
+<p>
+
 
 #### VIDEO SOBRE EL FUNCIONAMIENTO DEL ELEMENTO VISUAL
 
