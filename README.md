@@ -23,4 +23,3 @@ El elemento puede ser arrastrado simplemente desde la paleta de elementos de net
 
 
 
-
