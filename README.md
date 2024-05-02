@@ -47,8 +47,13 @@ El metodo ValidarNumero nos ayudara a buscar un numero dentro de la contrasena q
 <p>
 
 
+
 #### VIDEO SOBRE EL FUNCIONAMIENTO DEL ELEMENTO VISUAL
 
 https://youtu.be/iAe5nDsxpXg?si=fD0FBcrGJTPvzn3A
 
 
+
+#### AUTORES
+- Torres Cortés Alexander Jassiel - *Estudiante* - (https://github.com/AlexanderTorresCortes)
+- Cruz Alonso Kelly Adanari - *Estudiante* - (https://github.com/adanari08)
